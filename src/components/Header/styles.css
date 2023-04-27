@@ -1,0 +1,24 @@
+header {
+    background-color: var(--color-bg-first);
+    color: var(--color-first);
+    height: 70px;
+    display: flex;
+    align-items: center;
+}
+
+.title {
+    display: flex;
+    align-items: center;
+    
+    justify-content: space-between;
+}
+
+h1 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.count {
+    font-size: 12x;
+    font-weight: 700;
+}
