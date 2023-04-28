@@ -1,0 +1,21 @@
+.card-list {
+    border: 1px solid #55bc04;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+  }
+  
+  .card-list h2 {
+    color: var(--color-third);
+    font-size: 16px;
+    
+  }
+  
+  .card-list h3 {
+    color: var(--color-fourth);
+    font-size: 12px;
+    font-weight: 400;
+    
+  }
+
+  

@@ -18,8 +18,13 @@
   box-sizing: border-box;
 }
 
-body {
-  background-color: var(color-bg-second);
+ body {
+  background-color: var(--color-bg-second);
+}
+
+a, a:hover {
+  text-decoration: none;
+  color: unset;
 }
 
 .container {

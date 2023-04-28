@@ -1,0 +1,7 @@
+.card-list {
+    background-color: var(--color-bg-third);
+    width: 100%;
+    padding: 10px 20px 20px 20px;
+    border-radius: 5px;
+  }
+  
