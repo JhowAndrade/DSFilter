@@ -1,10 +1,10 @@
 import { useContext, useEffect, useState } from "react";
 import { ProductDTO } from "../../models/product";
-import { ContextProductCount } from "../../utils/context-product";
 import * as productService from "../../services/product-service";
 import FilterCard from "../FilterCard";
 import ListingCard from "../ListingCard";
 import "./styles.css";
+import { ContextProductCount } from "../utils/context-product";
 
 type MinMax = {
     min: number;

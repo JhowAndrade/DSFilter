@@ -1,18 +1,18 @@
-.card-list {
+.list {
     border: 1px solid #55bc04;
     border-radius: 5px;
     padding: 10px;
     margin-top: 10px;
   }
   
-  .card-list h2 {
-    color: var(--color-third);
+  .list h2 {
+    color: var(--color-fourth);
     font-size: 16px;
-    
+    font-weight: 700;
   }
   
-  .card-list h3 {
-    color: var(--color-fourth);
+  .list h3 {
+    color: var(--color-third);
     font-size: 12px;
     font-weight: 400;
     

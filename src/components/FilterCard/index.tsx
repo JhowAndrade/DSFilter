@@ -47,7 +47,7 @@ export default function FilterCard({ onFilter }: Props) {
             onChange={handleInputChange}
           />
         </div>
-        <div className="filter">
+        <div className="submit">
           <button onClick={handleSubmit}>Filtrar</button>
         </div>
       </div>

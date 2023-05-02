@@ -20,7 +20,7 @@
     font-size: 16px;
   }
   
-  .filter button {
+  .submit button {
     background-color: var(--color-bg-first);
     color: var(--color-first);
     height: 40px;

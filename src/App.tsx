@@ -1,7 +1,8 @@
 import { useState } from "react";
 import Header from "./components/Header";
 import ListingBody from "./components/ListingBody";
-import { ContextProductCount } from "./utils/context-product";
+import { ContextProductCount } from "./components/utils/context-product";
+
 
 export default function App() {
   const [contextProductCount, setContextProductCount] = useState<number>(0);
